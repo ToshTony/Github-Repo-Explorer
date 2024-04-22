@@ -46,7 +46,7 @@ GitHub Repo Explorer is a Python script that fetches information about a GitHub 
    ```
 
 4. Follow the prompts and enter the owner and name of the repository you want to fetch information about.
-5. If prompted, enter your GitHub Personal Access Token when prompted.
+5. Be sure to include your GitHub Personal Access Token.
 6. The script will then fetch and display information about the specified repository.
 
 ## License
