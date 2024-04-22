@@ -20,13 +20,13 @@ GitHub Repo Explorer is a Python script that fetches information about a GitHub 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/github-repo-explorer.git
+   git clone https://github.com/ToshTony/Github-Repo-Explorer.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd github-repo-explorer
+   cd Github-Repo-Explorer
    ```
 
 3. Install the required Python packages using pip:
@@ -42,7 +42,7 @@ GitHub Repo Explorer is a Python script that fetches information about a GitHub 
 3. Run the script:
 
    ```bash
-   python github_repo_explorer.py
+   python Github-Repo-Explorer.py
    ```
 
 4. Follow the prompts and enter the owner and name of the repository you want to fetch information about.
